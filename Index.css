@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin-top: 90px;
+}
+.col-md-8 > h3{
+    margin-bottom: 20px;
+}
+section > img{
+    width: 80%;
+    height: 350px;
+    margin-left: 60px;
+}
+section > h4{
+    margin-bottom: 15px;
+    border-bottom: 1px solid black;
+}
+.col-md-12 > h3{
+    display: flex;
+    justify-content: center;
+}
+.col-md-12 form input{
+    margin-bottom: 15px;
+}
+.col-md-12 button{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    margin-left: 15%;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+p{
+    width: 250px;
+}
+a{
+    margin-bottom: 15px;
+    width: 190px;
+}
+
+.form-check label, input{
+    margin-bottom: 12px;
+}
